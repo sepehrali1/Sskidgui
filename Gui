@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://vampauth.com/api/projects/c85d0c87-4843-47de-b5bf-b7d80530b292/scripts/ssgui"))()
